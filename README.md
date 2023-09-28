@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## 🔭 A student in Nanjing University, Suzhou Campus.
 ## 🌱 Major in Intelligence Science and Technology.
 ## 👯 Like listening music.
